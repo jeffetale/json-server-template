@@ -1,444 +1,179 @@
 {
-  "example": [
+  "players": [
     {
       "id": 1,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "name": "Joel Embiid",
+      "img": "https://sportsnaut.com/wp-content/uploads/2022/12/NBA-Toronto-Raptors-at-Philadelphia-76ers-19655398-788x444.jpg",
+      "team": "Philadelphia 76ers"
     },
     {
       "id": 2,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "name": "Giannis Antetokounmpo",
+      "img": "https://sportsnaut.com/wp-content/uploads/2022/06/nba-mvp-candidates-giannis-antetokounmpo-18224257-748x420.jpg",
+      "team": "Milwaukee Bucks"
     },
     {
       "id": 3,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "name": "Nikola Jokić",
+      "img": "https://sportsnaut.com/wp-content/uploads/2023/03/NBA-Brooklyn-Nets-at-Denver-Nuggets-20214570-788x443.jpg",
+      "team": "Denver Nuggets"
     },
     {
       "id": 4,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "name": "Luka Dončić",
+      "img": "https://sportsnaut.com/wp-content/uploads/2023/03/NBA-Dallas-Mavericks-at-New-Orleans-Pelicans-20176422-788x443.jpg",
+      "team": "Dallas Mavericks"
     },
     {
       "id": 5,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "name": "Jayson Tatum",
+      "img": "https://sportsnaut.com/wp-content/uploads/2022/06/nba-mvp-candidates-jayson-tatum-18533040-748x420.jpg",
+      "team": "Boston Celtics"
     },
     {
       "id": 6,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "name": "Stephen Curry",
+      "img": "https://sportsnaut.com/wp-content/uploads/2023/05/NBA-Playoffs-Golden-State-Warriors-at-Sacramento-Kings-20571090-788x443.jpg",
+      "team": "Golden State Warriors"
     },
     {
       "id": 7,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "name": "Shai Gilgeous-Alexander",
+      "img": "https://sportsnaut.com/wp-content/uploads/2023/01/NBA-Oklahoma-City-Thunder-at-Sacramento-Kings-19830705-788x444.jpg",
+      "team": "Oklahoma City Thunder"
     },
     {
       "id": 8,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "name": "Zion Williamson",
+      "img": "https://sportsnaut.com/wp-content/uploads/2023/05/NBA-Denver-Nuggets-at-New-Orleans-Pelicans-19563232-788x443.jpg",
+      "team": "New Orleans Pelicans"
     },
     {
       "id": 9,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "name": "Anthony Edwards",
+      "img": "https://sportsnaut.com/wp-content/uploads/2023/04/20539410-788x525.jpg",
+      "team": "Minnesota Timberwolves"
     },
     {
       "id": 10,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 11,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 12,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 13,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 14,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 15,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 16,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 17,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 18,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 19,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 20,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 21,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 22,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 23,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 24,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 25,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 26,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 27,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 28,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 29,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 30,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 31,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 32,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 33,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 34,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 35,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 36,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 37,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 38,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 39,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 40,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "name": "Kevin Durant",
+      "img": "https://sportsnaut.com/wp-content/uploads/2023/06/NBA-Playoffs-Denver-Nuggets-at-Phoenix-Suns-20619643-788x539.jpg",
+      "team": "Phoenix Suns"
     }
-  ]
-}
+  ],
+  "movies": [  
+    {
+      "id": 1,
+      "title": "'The Shawshank Redemption' (1994)",
+      "posterPath": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/02/shawshank.jpg?q=50&fit=crop&w=767&dpr=1.5"
+    },
+    {
+      "id": 2,
+      "title": "'The Dark Knight' (2008)",
+      "posterPath": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/02/joker-1.jpg?q=50&fit=crop&w=767&dpr=1.5"
+    },
+    {
+      "id": 3,
+      "title": "'Inception' (2010)",
+      "posterPath": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2021/01/inception-leonardo-dicaprio-cillian-murphy-meeting-warner-bros-featured.png?q=50&fit=crop&w=767&dpr=1.5"
+    },
+    {
+      "id": 4,
+      "title": "'Fight Club' (1999)",
+      "posterPath": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2019/10/fight-club-brad-pitt-social.jpg?q=50&fit=crop&w=767&dpr=1.5"
+    },
+    {
+      "id": 5,
+      "title": "'Forrest Gump' (1994)",
+      "posterPath": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/02/forrest.jpg?q=50&fit=crop&w=767&dpr=1.5"
+    },
+    {
+      "id": 6,
+      "title": "'Pulp Fiction' (1994)",
+      "posterPath": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/02/pulpfiction_130130_360.jpg?q=50&fit=crop&w=767&dpr=1.5"
+    },
+    {
+      "id": 7,
+      "title": "'The Matrix' (1999)",
+      "posterPath": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/02/freeze!.jpg?q=50&fit=crop&w=767&dpr=1.5"
+    },
+    {
+      "id": 8,
+      "title": "'The Lord of the Rings: The Fellowship of the Ring' (2001)",
+      "posterPath": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/02/fellowship.jpg?q=50&fit=crop&w=767&dpr=1.5"
+    },
+    {
+      "id": 9,
+      "title": "'The Godfather' (1972)",
+      "posterPath": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2021/12/the-godfather-social.jpg?q=50&fit=crop&w=767&dpr=1.5"
+    },
+    {
+      "id": 10,
+      "title": "'Interstellar' (2014)",
+      "posterPath": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2023/01/matthew-mcconaughey-in-interstellar.jpg?q=50&fit=crop&w=767&dpr=1.5"
+    }
+  ],
+
+  "musicians": [
+    {
+      "id": 1,
+      "name": "Taylor Swift",
+      "Genre": "Pop",
+      "img": "https://charts-static.billboard.com/img/2006/12/taylor-swift-824-artistchart-zpe-344x344.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Lil Uzi Vert",
+      "Genre": "Hip hop",
+      "img": "https://charts-static.billboard.com/img/2016/04/lil-uzi-vert-mre-344x344.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Morgan Wallen",
+      "Genre": "Country",
+      "img": "https://charts-static.billboard.com/img/2018/01/morgan-wallen-nlu-artist-chart-zuy-344x344.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Luke Combs",
+      "Genre": "Country",
+      "img": "https://charts-static.billboard.com/img/2017/03/luke-combs-9dm-artist-chart-501-344x344.jpg"
+    },
+    {
+      "id": 5,
+      "name": "aespa",
+      "Genre": "K-pop",
+      "img": "https://charts-static.billboard.com/img/2021/10/aespa-x2p-artistchart-beq-344x344.jpg"
+    },
+    {
+      "id": 6,
+      "name": "SZA",
+      "Genre": "R&B",
+      "img": "https://charts-static.billboard.com/img/2017/07/sza-8os-344x344.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Peso Pluma",
+      "Genre": "Latin",
+      "img": "https://charts-static.billboard.com/img/2023/02/pesopluma-2yo-artistchart-ew0-344x344.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Olivia Rodrigo",
+      "Genre": "Pop",
+      "img": "https://charts-static.billboard.com/img/2020/01/olivia-rodrigo-3wl-artist-chart-9ct-344x344.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Ed Sheeran",
+      "Genre": "Pop",
+      "img": "https://charts-static.billboard.com/img/2012/11/ed-sheeran-w3r-artist-chart-1li-344x344.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Miley Cyrus",
+      "Genre": "Pop",
+      "img": "https://charts-static.billboard.com/img/2007/12/miley-cyrus-jca-artistchart-jaw-344x344.jpg"
+    }
+  ]  
+}    
