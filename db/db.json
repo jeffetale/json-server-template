@@ -65,52 +65,52 @@
     {
       "id": 1,
       "title": "'The Shawshank Redemption' (1994)",
-      "posterPath": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/02/shawshank.jpg?q=50&fit=crop&w=767&dpr=1.5"
+      "poster_path": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/02/shawshank.jpg?q=50&fit=crop&w=767&dpr=1.5"
     },
     {
       "id": 2,
       "title": "'The Dark Knight' (2008)",
-      "posterPath": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/02/joker-1.jpg?q=50&fit=crop&w=767&dpr=1.5"
+      "poster_path": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/02/joker-1.jpg?q=50&fit=crop&w=767&dpr=1.5"
     },
     {
       "id": 3,
       "title": "'Inception' (2010)",
-      "posterPath": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2021/01/inception-leonardo-dicaprio-cillian-murphy-meeting-warner-bros-featured.png?q=50&fit=crop&w=767&dpr=1.5"
+      "poster_path": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2021/01/inception-leonardo-dicaprio-cillian-murphy-meeting-warner-bros-featured.png?q=50&fit=crop&w=767&dpr=1.5"
     },
     {
       "id": 4,
       "title": "'Fight Club' (1999)",
-      "posterPath": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2019/10/fight-club-brad-pitt-social.jpg?q=50&fit=crop&w=767&dpr=1.5"
+      "poster_path": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2019/10/fight-club-brad-pitt-social.jpg?q=50&fit=crop&w=767&dpr=1.5"
     },
     {
       "id": 5,
       "title": "'Forrest Gump' (1994)",
-      "posterPath": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/02/forrest.jpg?q=50&fit=crop&w=767&dpr=1.5"
+      "poster_path": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/02/forrest.jpg?q=50&fit=crop&w=767&dpr=1.5"
     },
     {
       "id": 6,
       "title": "'Pulp Fiction' (1994)",
-      "posterPath": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/02/pulpfiction_130130_360.jpg?q=50&fit=crop&w=767&dpr=1.5"
+      "poster_path": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/02/pulpfiction_130130_360.jpg?q=50&fit=crop&w=767&dpr=1.5"
     },
     {
       "id": 7,
       "title": "'The Matrix' (1999)",
-      "posterPath": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/02/freeze!.jpg?q=50&fit=crop&w=767&dpr=1.5"
+      "poster_path: "https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/02/freeze!.jpg?q=50&fit=crop&w=767&dpr=1.5"
     },
     {
       "id": 8,
       "title": "'The Lord of the Rings: The Fellowship of the Ring' (2001)",
-      "posterPath": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/02/fellowship.jpg?q=50&fit=crop&w=767&dpr=1.5"
+      "poster_path": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/02/fellowship.jpg?q=50&fit=crop&w=767&dpr=1.5"
     },
     {
       "id": 9,
       "title": "'The Godfather' (1972)",
-      "posterPath": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2021/12/the-godfather-social.jpg?q=50&fit=crop&w=767&dpr=1.5"
+      "poster_path": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2021/12/the-godfather-social.jpg?q=50&fit=crop&w=767&dpr=1.5"
     },
     {
       "id": 10,
       "title": "'Interstellar' (2014)",
-      "posterPath": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2023/01/matthew-mcconaughey-in-interstellar.jpg?q=50&fit=crop&w=767&dpr=1.5"
+      "poster_path": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2023/01/matthew-mcconaughey-in-interstellar.jpg?q=50&fit=crop&w=767&dpr=1.5"
     }
   ],
 
